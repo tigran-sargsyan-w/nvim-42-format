@@ -1,4 +1,4 @@
-# 🚀 nvim-42-format
+<h1 align="center"> 🚀 nvim-42-format</h1>
 
 A Neovim plugin to format C/C++ code according to the 42 school **norm**.
 
